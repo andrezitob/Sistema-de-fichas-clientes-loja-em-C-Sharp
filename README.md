@@ -6,6 +6,8 @@ Um sistema de ficha para clientes de loja, onde cada cliente tem sua própria fi
 
 criação de fichas, que guardam todas as informações do cliente em relação a loja, como: o nome do cliente; mercadorias compradas e datas de compra; pagamentos e datas de pagamentos; dívida total.
 
+todas as informações podem ser salvas e acessadas em um arquivo .json
+
 adicionar ou excluir: mercadorias compradas e pagamentos realizados, interferindo na dívida total.
 
 vizualizar: a dívida total de um cliente; simultâneamente as dívidas total de cada cliente registrado, em ordem alfabética ou decressente (maior dívida a menor).
